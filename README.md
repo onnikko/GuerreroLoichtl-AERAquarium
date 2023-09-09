@@ -11,7 +11,7 @@ Cinco décadas estableciendo los más altos estándares en la producción de int
 En AER Aquarium combinamos materiales y tecnología progresiva para ofrecer productos altamente confiables, con menor impacto ambiental, sin sacrificar el rendimiento y seguridad.
 Explore nuestras áreas de habilidades para encontrar la oportunidad adecuada para usted.
 
-### ###Aeronaves
+##Aeronaves
 
 - F-35 Lightning II
 El sistema de orientación electroóptica (EOTS).
