@@ -64,3 +64,7 @@ Diseño modular.
 ## Ventas
 
 Ventas gubernamentales y comerciales internacionales de productos, servicios y plataformas.
+
+Paleta de colores: ![aeraq](https://github.com/onnikko/GuerreroLoichtl-AERAquarium/assets/136842947/1b8714ca-9156-48d4-a59f-689cf4fab85e)
+Logo: ![AERaqu](https://github.com/onnikko/GuerreroLoichtl-AERAquarium/assets/136842947/3f36b2e4-a853-4204-81b5-1f62398fab66)
+
