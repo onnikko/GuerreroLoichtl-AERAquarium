@@ -1,0 +1,18 @@
+@import url("https://fonts.google.com/specimen/Cormorant+Garamond");
+
+* {
+    font-family : 'Cormorant+Garamond'
+}
+
+:root{
+    --primary: #000000;
+    --secondary: #FFFF00;
+}
+
+.banner{
+    background-color: var(--primary);
+}
+
+.articulo{
+    background-color: var(--secondary);
+}
