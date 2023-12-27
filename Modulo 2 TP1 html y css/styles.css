@@ -4,15 +4,49 @@
     font-family : 'Cormorant+Garamond'
 }
 
+.body {
+    back
+}
+
+.aer{
+    background-color: black;
+    color: white
+}
+
 :root{
-    --primary: #000000;
-    --secondary: #FFFF00;
+    --primary: black;
+    --secondary: rgb(54, 54, 54);
 }
 
 .banner{
     background-color: var(--primary);
+    color: white;
 }
 
 .articulo{
     background-color: var(--secondary);
 }
+
+/* 320px - 480px: Mobile Devices
+481px - 768px: iPads, Tablets
+769px */
+
+
+@media (min-width: 480px){
+    .MediaQueries {
+        background-color: black;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 768px){
+    .MediaQueries {
+        background-color: bisque;
+    }
+}
+
+@media (min-width: 769px){
+    .MediaQueries {
+        background-color: gray;
+    }
+}
+

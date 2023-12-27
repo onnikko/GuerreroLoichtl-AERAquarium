@@ -1,76 +1,51 @@
-<<<<<<< HEAD
-# AER Aquarium
-
-Fundada en 1970, AER Aquarium ha sido pionera en innovación aeroespacial y detección de amenazas, definiendo épocas con sistemas confiables, actualizables y diseñados para operar en la era digital.
-AER Aquarium, con sede en Argentina e instalaciones en Austria y Alemania, se encuentra entre los principales fabricantes de aeronaves, sistemas de sensores infrarrojos y radares expansivos.
-=======
 # AER VULT
 
-Fundada en 1970, AER VULT ha sido pionera en innovación aeroespacial y detección de amenazas, definiendo épocas con sistemas confiables, actualizables y diseñados para operar en la era digital.
+Fundada en 1970, AER VULT ha sido pionera en innovacion aeroespacial y deteccion de amenazas, definiendo épocas con sistemas confiables, actualizables y diseñados para operar en la era digital.
 AER VULT, con sede en Argentina e instalaciones en Austria y Alemania, se encuentra entre los principales fabricantes de aeronaves, sistemas de sensores infrarrojos y radares expansivos.
->>>>>>> 9a677a801029afd8d339a5ac876b91a8c9d543e8
 Cinco décadas estableciendo los más altos estándares en la producción de inteligencia aeroespacial. Su incesante búsqueda de la excelencia le ha otorgado numerosos hitos y elogios de expertos de la industria. Promoviendo el desarrollo en diseño e integración de sistemas que logran resultados óptimos. La eficiencia, rendimiento y seguridad son pilares fundamentales de nuestra organización.
-
 
 
 ### PRODUCTOS
 
-<<<<<<< HEAD
-En AER Aquarium combinamos materiales y tecnología progresiva para ofrecer productos altamente confiables, con menor impacto ambiental, sin sacrificar el rendimiento y seguridad.
-=======
 En AER VULT combinamos materiales y tecnología progresiva para ofrecer productos altamente confiables, con menor impacto ambiental, sin sacrificar el rendimiento y seguridad.
->>>>>>> 9a677a801029afd8d339a5ac876b91a8c9d543e8
-Explore nuestras áreas de habilidades para encontrar la oportunidad adecuada para usted.
+Explore nuestras áreas de habilidades para encontrar la oportunidad adecuada para su proyecto.
 
-## Aeronaves
+## X11 RADAR
 
-- F-35 Lightning II
-El sistema de orientación electroóptica (EOTS).
+X11 RADAR es un satelite de alta potencia desarrollado por AER VULT, ofreciendo capacidades SAR extensivas con tecnologias probadas en misiones anteriores. Equipado con la confiabilidad de las tecnologias de vanguardia, tiene la capacidad de monitorear un gran numero de objetivos con frecuencias de recurrencia rapida. Con un rendimiento mejorado en un solo pase, captura imagenes de alta resolucion en un area teatral de 100x100 km².
 
-- Block 70/72 Fighting Falcon
-Pantalla de pedestal central (CPD) de alta resolución.
-Sistema Automático de Prevención de Colisiones en Tierra (Auto GCAS).
+Caracteristicas
 
-- C-130J Super Hércules
-130 capacidades certificadas, diversas y multimisión.
-Software Block 7.0/8.1 y HUD duales.
-Rampa/puerta de 250 nudos.
+-Tecnologias probadas en misiones anteriores
+-Capacidades SAR extensivas
+-Monitoreo de un gran numero de objetivos
+-Rendimiento mejorado en un solo pase
+-Captura de imagenes de alta resolucion
 
-- S-97 RAIDER
-Vuelo de crucero de alta velocidad de 200kts.
-Hover Heller desconectado.
-Cañones de disparo frontal, cohetes y misiles aire-tierra designados por láser.
+## POWER FULL
 
-## Radares
+POWER FULL es un revolucionario sistema propulsor diseñado por AER VULT, impulsado por siete de los motores mas poderosos del mundo. Este sistema utiliza dos tipos de combustibles avanzados: Liquid Oxygen (LOX) y Liquid Natural Gas (LNG). Inspirado en los motores Saturn V's F1, el motor BE-4 es completamente reutilizable y genera un asombroso empuje de 550,000 lbf (2,450 kN) a nivel del mar, con una capacidad de regulacion profunda. Con tecnologia de punta, POWER FULL establece un nuevo estandar en la exploracion espacial.
 
-Responsables de identificar amenazas, proporcionar alerta temprana, conciencia situacional, vigilancia, seguimiento, clasificación / discriminación / identificación, compromiso de control de incendios. Soluciones de radar terrestre, naval y aerotransportados de alto rendimiento y confiabilidad.
+Caracteristicas
 
-- Radar AN/TPQ-53
-Arquitectura de matriz de escaneo electrónico activo controlado por software (AESA).
-Montado en un camión de cinco toneladas.
-Nitruro de galio para mayor potencia, fiabilidad y capacidades mejoradas.
+-Combustibles: Liquid Oxygen (LOX) y Liquid Natural Gas (LNG)
+-Inspirado en los motores Saturn V's F1
+-Motor BE-4 reutilizable
+-Impulso de 550,000 lbf (2,450 kN) a nivel del mar
+-Capacidad de regulacion profunda
 
-- Radar AN/APY-9
-Vigilancia completa de 360°, escaneo mecánicos y electrónicos.
-Procesamiento adaptativo espacio-temporal (STAP).
-Transmisor de estado sólido y procesador avanzado.
+## AER VULT KO CONNECTIVITY PANEL
 
-## Sensores
+VULT KO Connectivity Panel es un servicio de conectividad WiFi revolucionario creado por AER VULT, diseñado para ofrecer soluciones de internet avanzadas en diversas modalidades. Desde entornos fijos hasta ambientes en movimiento, maritimos y aereos, este panel garantiza una conexion rapida y confiable en cualquier lugar del mundo. Manten a tus dispositivos conectados y operativos, ya sea en la tierra, el mar o en el cielo.
 
-Los sistemas de sensores infrarrojos proporcionan orientación avanzada de precisión, navegación, detección de amenazas y capacidades de inteligencia, vigilancia y reconocimiento 
-de próxima generación.
+Caracteristicas
 
-- Sensor
-Procesador avanzado para la detección y el seguimiento de alta fidelidad de objetivos aire-aire.
-Interfaz Plug-and-Play.
+-Conectividad WiFi avanzada
+-Modalidades: fija, en movimiento, maritima y aerea
+-Garantiza una conexion rapida y confiable
+-Amplio alcance geografico
 
-## Satelites
 
-Satélites de aplicaciones comerciales (telecomunicaciones, televisión, acceso a Internet), científicas (exploración espacial, observación de la Tierra, gestión de recursos), doble aplicación (geolocalización) o defensa (vigilancia).
-
-- GPS III/IIIF
-Capacidad anti-jamming y señal civil L1C.
-Diseño modular.
 
 ## Ventas
 
