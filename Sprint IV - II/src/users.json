@@ -1,0 +1,27 @@
+[
+  {
+    "fullname": "juan",
+    "email": "asda@asdasd.com",
+    "password": "$2b$10$xW.W3sFsRH1JM6uxWj727eUnp96y7HiWkmPgwDIyoqp7bS.QYu61u"
+  },
+  {
+    "fullname": "juan",
+    "email": "juan@juan.com",
+    "password": "$2b$10$T.3aP8G.6Q4iBvFHOABfZu1eKlf5vFWe/p1ZlGj8p.oZsNzRv7P0a"
+  },
+  {
+    "fullname": "certifsa",
+    "email": "certifsa@asd.com",
+    "password": "$2b$10$pUZSnyxpbY62CPTQBnECuOFSfksPUKbsj2Qud//bq/6uWj0pAEaCW"
+  },
+  {
+    "fullname": "certifsad",
+    "email": "certifsad@asd.com",
+    "password": "$2b$10$veIzknApF7XA6t2SRg8AK.0rDU9Milc5pRPsce2lsa1PtRjAWZT3y"
+  },
+  {
+    "fullname": "juanjoise",
+    "email": "asdasd@asdasd.com",
+    "password": "$2b$10$Nv4xXVXa/nNrkxz1xE.St.uhgoErJ7z5iwtTFobVxpyY.lk5nK7eC"
+  }
+]
