@@ -1,0 +1,23 @@
+<header class="banner">
+    <h1 class="aer">AerVULT</h1>
+   
+    <br> <br>
+    <nav>
+        <ul>
+            <li><a href="/">HOME</a> 
+            <li><a href="/login">LOGIN</a>
+
+            <li><a href="/register">REGISTER</a></li>
+            <li><a href="/product">PRODUCTS</a></li>
+            <li><a href="/cart">CART</a></li>
+        </ul>
+
+    </nav>
+    <br>
+    
+    <h4><% if (typeof userData !== 'undefined') { %>
+        <p>Welcome, <%= userData.email %></p>
+    
+    <% } %></h4>
+</header>
+

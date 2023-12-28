@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include('partials/head') %>
+
+    <body>
+        <%- include('partials/header') %>
+    <main>
+        <section class="login-form">
+            <h2>Login</h2>
+          
+            <form action="/login" method="POST"> 
+                <label for="email">Email:</label><br>
+                <input type="text" id="email" name="email"><br>
+                <label for="password">Password:</label><br>
+                <input type="password" id="password" name="password"><br><br>
+                <button type="submit" class="register" >Login</button>
+            </form>
+            <% if (typeof errors !== 'undefined') { %>
+                <ul class="errors">
+                    <% errors.forEach(error => { %>
+                        <li class="error-message"><%= error.msg %></li>
+                    <% }) %>
+                </ul>
+            <% } %>
+            
+        </section>
+    </main>
+    <%- include('partials/footer') %>
+</body>
+</html>
